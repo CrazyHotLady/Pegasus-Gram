@@ -1,0 +1,14 @@
+# Core Dependencies
+python-telegram-bot[ext]
+pynput
+Pillow
+requests
+
+# Optional/Future Dependencies
+cryptography
+psutil
+opencv-python # For webcam
+sounddevice # For audio recording
+
+# Clipboard
+pyperclip 
